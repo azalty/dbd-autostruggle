@@ -11,10 +11,10 @@ Just run it and follow instructions.
 
 ### Is it safe?
 
-**Yes.** I tested it the 24/10/2018 (Day/Month/Year format) and it was working and safe.
+**Yes.** I tested it the 04/07/2019 (Day/Month/Year format) and it was working and safe.
 EasyAntiCheat didn't blocked it and it worked.
 
-Last working and safe version : **1.0.1**
+Last working and safe version : **1.0.0**
 
 ### How does it work?
 
